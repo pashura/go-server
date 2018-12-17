@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"./controllers"
+	"go-server/controllers"
 )
 
 func main() {
