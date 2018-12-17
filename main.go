@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"go-server/controllers"
+	"github.com/pashura/go-server/controllers"
 )
 
 func main() {
